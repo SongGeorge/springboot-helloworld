@@ -1,12 +1,12 @@
-package com.zhousi.spring.boot.blog.springboothelloworld;
+package com.zhousi.spring.boot.blog;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootHelloworldApplication {
+public class HelloworldApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootHelloworldApplication.class, args);
+		SpringApplication.run(HelloworldApplication.class, args);
 	}
 }
